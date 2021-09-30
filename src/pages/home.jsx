@@ -9,8 +9,8 @@ import Instagram from '../img/instagram.svg'
 import Twitter from '../img/twitter.svg'
 // import OrangeBoxImg from '../img/'
 const Box = styled.div`
-    height: 99.9vh;
-    width: 99.9vw;
+    height: 100%;
+    width: 100%;
 `
 
 const Navbar = styled.div`
@@ -28,7 +28,7 @@ const Navbar = styled.div`
 const NavbarText = styled.div`
     display: flex;
     justify-content: space-evenly;
-    width: 35vw;
+    width: 35%;
     font-family: Open Sans;
     font-style: normal;
     font-weight: 500;
@@ -50,7 +50,7 @@ const NavbarText = styled.div`
 
 const Nav = styled.div`
     display: flex;
-    width: 99vw;
+    width: 99%;
     justify-content: space-between;
 `
 
@@ -243,28 +243,28 @@ const Body = styled.div`
         flex-direction: column;
     }
 `
-const DesriptionBody = styled.div`
-    display: flex;
-    flex: 1;
-    height: 36vh;
-    justify-content: flex-end;
-    align-items: flex-end;
-`
-const DescriptionBox = styled.div`
-    height: 150px;
-    width: 700px;
-    background-color: #142E38;
+// const DesriptionBody = styled.div`
+//     display: flex;
+//     flex: 1;
+//     height: 36vh;
+//     justify-content: flex-end;
+//     align-items: flex-end;
+// `
+// const DescriptionBox = styled.div`
+//     height: 150px;
+//     width: 700px;
+//     background-color: #142E38;
 
-`
-const DescriptionOrangeBox = styled.div`
-    height: 150px;
-    width: 300px;
-    background-color: #FAB65D;
-    border-radius: 30px 0px 0px 0px;
-    @media (max-width:768px){
-        border-radius: 0px;
-    }
-`
+// `
+// const DescriptionOrangeBox = styled.div`
+//     height: 150px;
+//     width: 300px;
+//     background-color: #FAB65D;
+//     border-radius: 30px 0px 0px 0px;
+//     @media (max-width:768px){
+//         border-radius: 0px;
+//     }
+// `
 const home = () => {
     return (
         <MotionAnimate>
