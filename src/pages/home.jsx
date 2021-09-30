@@ -105,7 +105,7 @@ const Card = styled.div`
     }
 `
 
-const Button = styled.div`
+const Button = styled.a`
     display: flex;
     flex-direction: row;
     align-items: flex-start;
@@ -125,6 +125,7 @@ const Button = styled.div`
     text-align: center;
     color: #FFFFFF;
     cursor: pointer;
+    text-decoration: none;
     @media (max-width: 768px) {
         font-size: 18px;
         width: 80;
@@ -290,7 +291,7 @@ const home = () => {
                                     <TextMain>Помощь вашему <br /> ребенку в учебе</TextMain>
                                     <Text>Проект по развитию вашего ребенка, с помощью <br /> приложения ABC по уникальной авторской методике</Text>
                                 </TextMainAndTextBox>
-                               <Button><a style={{ textDecoration: "none", color: '#FFF' }} href="https://vimeo.com/618944876">Узнать больше</a></Button>
+                               <Button href="https://vimeo.com/618944876">Узнать больше</Button>
                                 
                             </Left>
                             <Right>
