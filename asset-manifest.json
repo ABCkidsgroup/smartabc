@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/smartabc/static/js/main.c347c5bf.chunk.js",
-    "main.js.map": "/smartabc/static/js/main.c347c5bf.chunk.js.map",
+    "main.js": "/smartabc/static/js/main.6e9281f3.chunk.js",
+    "main.js.map": "/smartabc/static/js/main.6e9281f3.chunk.js.map",
     "runtime-main.js": "/smartabc/static/js/runtime-main.a897221a.js",
     "runtime-main.js.map": "/smartabc/static/js/runtime-main.a897221a.js.map",
-    "static/js/2.3d7039f6.chunk.js": "/smartabc/static/js/2.3d7039f6.chunk.js",
-    "static/js/2.3d7039f6.chunk.js.map": "/smartabc/static/js/2.3d7039f6.chunk.js.map",
+    "static/js/2.45afd19a.chunk.js": "/smartabc/static/js/2.45afd19a.chunk.js",
+    "static/js/2.45afd19a.chunk.js.map": "/smartabc/static/js/2.45afd19a.chunk.js.map",
     "index.html": "/smartabc/index.html",
-    "static/js/2.3d7039f6.chunk.js.LICENSE.txt": "/smartabc/static/js/2.3d7039f6.chunk.js.LICENSE.txt",
+    "static/js/2.45afd19a.chunk.js.LICENSE.txt": "/smartabc/static/js/2.45afd19a.chunk.js.LICENSE.txt",
     "static/media/PlantImage.944280ad.svg": "/smartabc/static/media/PlantImage.944280ad.svg",
     "static/media/backshadow.250a7e23.svg": "/smartabc/static/media/backshadow.250a7e23.svg",
     "static/media/facebook.5d30b809.svg": "/smartabc/static/media/facebook.5d30b809.svg",
@@ -17,7 +17,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a897221a.js",
-    "static/js/2.3d7039f6.chunk.js",
-    "static/js/main.c347c5bf.chunk.js"
+    "static/js/2.45afd19a.chunk.js",
+    "static/js/main.6e9281f3.chunk.js"
   ]
 }
