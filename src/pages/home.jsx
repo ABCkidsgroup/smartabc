@@ -256,6 +256,15 @@ const DescriptionBox = styled.div`
     background-color: #142E38;
 
 `
+const DescriptionOrangeBox = styled.div`
+    height: 150px;
+    width: 300px;
+    background-color: #FAB65D;
+    border-radius: 30px 0px 0px 0px;
+    @media (max-width:768px){
+        border-radius: 0px;
+    }
+`
 const home = () => {
     return (
         <MotionAnimate>
@@ -296,6 +305,7 @@ const home = () => {
                     </Sociels>
                 </Body>
                 <DesriptionBody>
+                    <DescriptionOrangeBox></DescriptionOrangeBox>
                     <DescriptionBox></DescriptionBox>
                 </DesriptionBody>
 
