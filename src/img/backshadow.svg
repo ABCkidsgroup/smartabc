@@ -1,15 +1,15 @@
-<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1127" height="900" viewBox="0 0 1127 900" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g filter="url(#filter0_df)">
-<rect x="860.946" y="251.503" width="240" height="316.893" transform="rotate(38.2566 860.946 251.503)" fill="#CCD8C8"/>
+<rect x="823.946" y="251.503" width="240" height="316.893" transform="rotate(38.2566 823.946 251.503)" fill="#CCD8C8"/>
 </g>
 <g filter="url(#filter1_df)">
-<rect x="1065.68" y="-173" width="195.625" height="1398.09" transform="rotate(38.2566 1065.68 -173)" fill="#F9E1C3"/>
+<rect x="770.185" y="154.817" width="195.625" height="608.673" transform="rotate(38.2566 770.185 154.817)" fill="#F9E1C3"/>
 </g>
 <g filter="url(#filter2_df)">
-<circle cx="376.5" cy="231.5" r="139.5" fill="#318161" fill-opacity="0.25" shape-rendering="crispEdges"/>
+<circle cx="339.5" cy="231.5" r="139.5" fill="#318161" fill-opacity="0.25" shape-rendering="crispEdges"/>
 </g>
 <defs>
-<filter id="filter0_df" x="570.731" y="161.503" width="592.674" height="605.443" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_df" x="533.731" y="161.503" width="592.674" height="605.443" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dx="10" dy="14"/>
@@ -20,7 +20,7 @@
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
 <feGaussianBlur stdDeviation="25" result="effect2_foregroundBlur"/>
 </filter>
-<filter id="filter1_df" x="-3.05176e-05" y="-373" width="1419.29" height="1618.97" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter1_df" x="193.304" y="-45.1828" width="930.495" height="999.086" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dx="10" dy="14"/>
@@ -31,7 +31,7 @@
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
 <feGaussianBlur stdDeviation="100" result="effect2_foregroundBlur"/>
 </filter>
-<filter id="filter2_df" x="37" y="-108" width="679" height="679" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter2_df" x="-3.05176e-05" y="-108" width="679" height="679" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dx="10" dy="14"/>

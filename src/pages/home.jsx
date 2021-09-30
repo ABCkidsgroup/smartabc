@@ -9,7 +9,7 @@ import Instagram from '../img/instagram.svg'
 import Twitter from '../img/twitter.svg'
 // import OrangeBoxImg from '../img/'
 const Box = styled.div`
-    height: 100%;
+    height: 100vh;
     width: 100%;
 `
 
