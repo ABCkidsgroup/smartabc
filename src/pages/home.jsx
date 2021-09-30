@@ -273,9 +273,9 @@ const home = () => {
                     <Navbar>
                         <div><Img src={Logo}></Img></div>
                         <NavbarText>
-                            <div><a style={{ textDecoration: "none", color: '#142F38' }} href="/">О нас</a></div>
-                            <div><a style={{ textDecoration: "none", color: '#142F38' }} href="/">Наш продукт</a></div>
-                            <div><a style={{ textDecoration: "none", color: '#142F38' }} href="/">Контакты</a></div>
+                            {/* <div><a style={{ textDecoration: "none", color: '#142F38' }} href="/">О нас</a></div> */}
+                            {/* <div><a style={{ textDecoration: "none", color: '#142F38' }} href="/">Наш продукт</a></div> */}
+                            {/* <div><a style={{ textDecoration: "none", color: '#142F38' }} href="/">Контакты</a></div> */}
                         </NavbarText>
 
                     </Navbar>
@@ -298,16 +298,16 @@ const home = () => {
                         </Content>
                     </Centralize>
                     <Sociels>
-                        <a href="https://www.instagram.com/kubiki_kids_club/"><Sociel src={Facebook} /></a>
+                        {/* <a href="https://www.instagram.com/kubiki_kids_club/"><Sociel src={Facebook} /></a> */}
                         <a href="https://www.instagram.com/kubiki_kids_club/"><Sociel src={Instagram} /></a>
-                        <a href="https://www.instagram.com/kubiki_kids_club/"><Sociel src={Twitter} /></a>
+                        {/* <a href="https://www.instagram.com/kubiki_kids_club/"><Sociel src={Twitter} /></a> */}
                         <Line></Line>
                     </Sociels>
                 </Body>
-                <DesriptionBody>
+                {/* <DesriptionBody>
                     <DescriptionOrangeBox><Img /></DescriptionOrangeBox>
                     <DescriptionBox></DescriptionBox>
-                </DesriptionBody>
+                </DesriptionBody> */}
 
             </Box>
         </MotionAnimate>
