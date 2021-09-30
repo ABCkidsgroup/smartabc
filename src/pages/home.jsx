@@ -290,7 +290,7 @@ const home = () => {
                                     <TextMain>Помощь вашему <br /> ребенку в учебе</TextMain>
                                     <Text>Проект по развитию вашего ребенка, с помощью <br /> приложения ABC по уникальной авторской методике</Text>
                                 </TextMainAndTextBox>
-                               <Button onClick={() => { window.location.replace('https://vimeo.com/618944876')}}>Узнать больше</Button>
+                               <Button onClick={() => { window.location.assign('https://vimeo.com/618944876')}}>Узнать больше</Button>
                             </Left>
                             <Right>
                                 <CircleImg src={Circle} />
