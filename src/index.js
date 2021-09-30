@@ -4,7 +4,7 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Home from './pages/home.jsx';
 import Regf from './pages/regf.jsx';
 
-const app = <BrowserRouter>
+const app = <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Switch>
         <Route path='/' exact component={Home}/>
         <Route path='/regf' component={Regf} />
