@@ -9,7 +9,7 @@ import Instagram from '../img/instagram.svg'
 import Twitter from '../img/twitter.svg'
 
 const Box = styled.div`
-    height: 150vh;
+    height: 135vh;
     width: 100vw;
 `
 
@@ -243,7 +243,17 @@ const Body = styled.div`
         flex-direction: column;
     }
 `
-const Desription = styled.div`
+const DesriptionBody = styled.div`
+    display: flex;
+    flex: 1;
+    height: 36vh;
+    justify-content: flex-end;
+    align-items: flex-end;
+`
+const DescriptionBox = styled.div`
+    height: 150px;
+    width: 700px;
+    background-color: #142E38;
 
 `
 const home = () => {
@@ -285,7 +295,9 @@ const home = () => {
                         <Line></Line>
                     </Sociels>
                 </Body>
-                <Desription></Desription>
+                <DesriptionBody>
+                    <DescriptionBox></DescriptionBox>
+                </DesriptionBody>
 
             </Box>
         </MotionAnimate>
