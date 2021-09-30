@@ -7,15 +7,15 @@ import Circle from '../img/PlantImage.svg'
 import Facebook from '../img/facebook.svg'
 import Instagram from '../img/instagram.svg'
 import Twitter from '../img/twitter.svg'
-
+// import OrangeBoxImg from '../img/'
 const Box = styled.div`
     height: 135vh;
-    width: 100vw;
+    width: 99.9vw;
 `
 
 const Navbar = styled.div`
     display: flex;
-    width: 100vw;
+    width: 99vw;
     height: 16vh;
     flex: 1;
     align-items: center;
@@ -50,7 +50,7 @@ const NavbarText = styled.div`
 
 const Nav = styled.div`
     display: flex;
-    width: 100vw;
+    width: 99vw;
     justify-content: space-between;
 `
 
@@ -305,7 +305,7 @@ const home = () => {
                     </Sociels>
                 </Body>
                 <DesriptionBody>
-                    <DescriptionOrangeBox></DescriptionOrangeBox>
+                    <DescriptionOrangeBox><Img /></DescriptionOrangeBox>
                     <DescriptionBox></DescriptionBox>
                 </DesriptionBody>
 
