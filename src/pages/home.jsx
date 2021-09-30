@@ -3,10 +3,10 @@ import { MotionAnimate } from 'react-motion-animate'
 import Shadow from './../img/backshadow.svg'
 import Logo from './../img/logo.svg'
 import Circle from '../img/PlantImage.svg'
-
-import Facebook from '../img/facebook.svg'
+// import { Link } from 'react-router-dom';
+// import Facebook from '../img/facebook.svg'
 import Instagram from '../img/instagram.svg'
-import Twitter from '../img/twitter.svg'
+// import Twitter from '../img/twitter.svg'
 // import OrangeBoxImg from '../img/'
 const Box = styled.div`
     height: 100vh;
@@ -290,7 +290,7 @@ const home = () => {
                                     <TextMain>Помощь вашему <br /> ребенку в учебе</TextMain>
                                     <Text>Проект по развитию вашего ребенка, с помощью <br /> приложения ABC по уникальной авторской методике</Text>
                                 </TextMainAndTextBox>
-                                <Button onClick={() => { console.log('Pressed') }}>Узнать больше</Button>
+                               <Button onClick={() => { window.location.replace('https://vimeo.com/618944876')}}>Узнать больше</Button>
                             </Left>
                             <Right>
                                 <CircleImg src={Circle} />
